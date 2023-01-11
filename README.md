@@ -14,4 +14,4 @@
 python3 malware.py
 ```
 
-## I have also included [this]( script to make everything back to normal
+## I have also included [this](https://github.com/arxhr007/prankware/blob/main/antimalware.py) script to make everything back to normal
